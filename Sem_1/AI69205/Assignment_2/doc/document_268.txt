@@ -1,0 +1,97 @@
+-------------------------
+UK
+ -------------------------
+Alexon                  17
+Allders                 24
+BAe                     26
+BT                      24
+Barclays                42
+Baring Brothers         28
+Barrett Engineers       26
+Bell Court              26
+Bristol Water           26
+British Gas          42, 1
+British Thornton        26
+Brown &amp; Jackson         23
+Burndene                26
+Business Technology     26
+BZW                     30
+Cable &amp; Wireless        29
+CPL Aromas              26
+Chesterton              24
+Cookson                 17
+Dorman Diesels          26
+Drayton Recovery        26
+Epwin                   26
+Exmoor Dual             26
+Forte                   28
+Glaxo               42, 23
+Heath (CE)              25
+Heron Intl              26
+Hicking Pentecost       25
+London Electricity      25
+London Scottish Bank    25
+Marston Thompson        25
+Mountview Estates       26
+NFC                     23
+NatWest                 17
+Pearl                   17
+Perkins                 26
+Permadoor               26
+Shoprite                25
+Southern Business       24
+Stirling                24
+Suttons Seeds           28
+TI                      17
+Thames Water        42, 24
+Tottenham Hotspur       21
+Wagon Industrial        26
+Wiseman (Robert)        26
+Wrexham Water           26
+ -------------------------
+Overseas
+ -------------------------
+AT&amp;T            29, 24, 21
+Abeille Re              28
+Accor                   28
+Air France              28
+BCE                     29
+Bankers Trust           29
+Chase Manhattan         29
+Cimpor                  28
+Citibank                29
+Coles Myer              30
+Cott                    23
+DWA                     30
+Deutsche Bank           17
+Deutsche Telekom        21
+El Al                   30
+Electrolux               5
+Fininvest               23
+First Interstate        29
+Foodland Associated     30
+France Telecom          21
+GE Capital              29
+HK Telecom              29
+Kidder Peabody          29
+MCI                 24, 21
+Mannesmann              28
+Meridien Hotels         28
+Metsa-Serla             28
+Mondadori               23
+Muehlens                28
+Placer Pacific          30
+Rabbit Photo            26
+Rautaruukki             30
+Royal Begemann          30
+Scor                    28
+Seat                    29
+Sprint              24, 21
+Suez                    28
+SunAmerica              29
+Tata Tea                30
+UBS                     26
+Victoire                28
+Vilmorin                28
+Wella                   28
+ -------------------------
