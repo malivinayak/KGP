@@ -1,0 +1,152 @@
+Sipping Frascati does not normally bring accountancy to mind, but it has
+proved a heady legacy for those struggling with current UK financial
+reporting standards on research and development.
+Existing requirements are based on the work of a paper prepared by the
+Frascati committee of the Organisation of Economic Co-operation and
+Development in the 1960s for its own data collection.
+SSAP 13, the accounting standard that deals with R&amp;D, was introduced in 1977
+and last revised in 1989. It still uses these same OECD guidelines for the
+recognition of R&amp;D.
+But David Tonkin, head of Company Reporting, the Edinburgh-based monitor of
+accounts that compiled the R&amp;D Scoreboard for the Department of Trade and
+Industry, says: 'There's a problem of definition.'
+He says the OECD concentrates on an outdated science-based definition, split
+between pure and applied research and development. It misses out areas of
+spending such as intellectual property, including computer software
+development.
+He also highlights a number of other limitations to reporting requirements
+on the topic in the UK. For example, foreign-owned companies with British
+operations do not have to disclose their spending in the local accounts if
+it is funded from abroad.
+To add to the confusion, there are differences between the accounting
+standard in the UK and elsewhere, such as in the US where all such
+expenditure must be taken against the profit and loss account and not
+capitalised, says Ken Wild, accounting technical partner at Touche Ross.
+An issue for UK standards setters is whether companies should similarly be
+allowed to allocate R&amp;D between the profit and loss account and the balance
+sheet.
+Deferral is currently allowed for expenditure on projects if their technical
+feasibility and commercial viability can be assessed with reasonable
+certainty.
+'It is very subjective,' says Tonkin, who opposes making the guidelines more
+restrictive. 'In my view this is precisely what we want out of disclosure:
+for directors to make judgments and to put their reputations on the line.'
+The result of all these anomalies is that companies can in good faith find
+themselves struggling to represent fairly all their R&amp;D expenditure because
+of the guidelines' limitations.
+There is nothing to stop them providing additional voluntary disclosures
+outside the scope of the standard, to reveal what they consider to be a
+fairer view. They now also have scope in the Operating and Financial Review,
+the new set of voluntary guidelines circulated last year by the Accounting
+Standards Board.
+Few do so, however. There is considerable evidence that many companies are
+failing to even disclose the minimal amounts required by SSAP 13, with all
+its current faults: something to which regulators need to pay greater heed.
+An analysis of R&amp;D undertaken for the Financial Times by Company Reporting
+for 521 companies with year-ends up to the end of May 1994 shows that 213
+provide some indication of research and development activity. This is
+normally in the form of commentary in the chairman's statement, or an
+accounting policy note.
+In three-quarters of these companies, the value is disclosed and charged to
+income. In a smaller number of cases, companies disclose spending in the
+directors' report rather than - as the law requires - the accounts.
+However, in 22 per cent of cases there is no disclosure of the income effect
+provided anywhere in the financial statements. Examples include Asda, BAA,
+Bass, Cable &amp; Wireless and Guinness.
+In response, some companies argue that the amount concerned is not material.
+Others that it would make them vulnerable to competitive disadvantage if
+they disclosed the amount to their rivals.
+Tonkin disagrees. 'Companies should be debarred from making disclosures
+about items that are not material,' he says. 'It is misleading. Otherwise
+the chairman is going on about something that doesn't exist.'
+Meanwhile, the OECD is in discussions over a revised version of its own R&amp;D
+definitions. Readers of accounts can only hope that its members do not get
+too carried away drinking Frascati before they finish their drafting.
+ -----------------------------------------------------------------------
+            TOP 20 INTERNATIONAL COMPANIES BY R&amp;D EXPENDITURE
+ -----------------------------------------------------------------------
+                                         Current                R&amp;D as a
+                                        R&amp;D spend      Sales     percent
+                                       Pounds '000   Pounds m   of sales
+ -----------------------------------------------------------------------
+All companies composite
+ -----------------------------------------------------------------------
+                                       104,486,377  2,153,633      4.85
+General Motors, USA                      4,075,633     93,423      4.36
+Daimler-Benz, Germany                    3,519,772     38,041      9.25
+Ford Motor, USA                          3,393,714     73,349      4.63
+Hitachi, Japan                           3,035,313     45,639      6.65
+Siemens, Germany                         2,996,263     31,779      9.43
+Int. Business Machines, USA              2,994,930     42,389      7.07
+Matsushita Electric Industrial, Japan    2,433,484     42,726       5.7
+Fujitsu, Japan                           2,343,083     20,960     11.18
+American T'phone &amp; Telegraph, USA        2,074,349     45,391      4.57
+Toshiba, Japan                           1,888,020     28,022      6.74
+Nippon Telegraph &amp; T'phone, Japan        1,789,304     39,383      4.54
+Alcatel-Alsthom Co. Generale, France     1,730,828     18,507      9.35
+NEC, Japan                               1,665,558     21,281      7.83
+Asea Brown Boveri, Switz/Sweden          1,534,978     19,138      8.02
+Sony, Japan                              1,405,947     23,492      5.99
+Bayer, Germany                           1,228,787     15,960       7.7
+Honda Motor, Japan                       1,206,595     25,024      4.82
+Hewlett-Packard, USA                     1,190,266     13,732      8.67
+Hoechst, Germany                         1,182,858     17,922      6.62
+Philips Gloeilampenfabrieken, N'lands    1,182,140     20,470      5.78
+ -----------------------------------------------------------------------
+                                                              R&amp;D as a
+                                              Dividends      percent of
+                                             Pounds '000        Divs
+ -----------------------------------------------------------------------
+All companies composite
+ -----------------------------------------------------------------------
+                                              36,927,035        283
+General Motors, USA                              491,449      829.3
+Daimler-Benz, Germany                            145,181     2424.4
+Ford Motor, USA                                  539,371      629.2
+Hitachi, Japan                                   218,253     1390.7
+Siemens, Germany                                 278,685     1075.1
+Int. Business Machines, USA                      611,693      489.6
+Matsushita Electric Industrial, Japan            158,593     1534.4
+Fujitsu, Japan                                   109,798       2134
+American T'phone &amp; Telegraph, USA              1,203,109      172.4
+Toshiba, Japan                                   194,519      970.6
+Nippon Telegraph &amp; T'phone, Japan                472,383      378.8
+Alcatel-Alsthom Co. Generale, France             224,824      769.9
+NEC, Japan                                       393,229     1786.5
+Asea Brown Boveri, Switz/Sweden                  157,485      974.7
+Sony, Japan                                      112,984     1244.4
+Bayer, Germany                                   287,248      427.8
+Honda Motor, Japan                                82,521     1462.2
+Hewlett-Packard, USA                             154,106      772.4
+Hoechst, Germany                                 201,229      587.8
+Philips Gloeilampenfabrieken, N'lands                  0
+ -----------------------------------------------------------------------
+                                              Previous R&amp;D spend
+                                        1992         1991         1990
+                                       Pounds       Pounds       Pounds
+                                        '000         '000         '000
+ -----------------------------------------------------------------------
+All companies composite
+ -----------------------------------------------------------------------
+                                       102,845,313 94,661,011 83,632,838
+General Motors, USA                      3,999,253  3,979,313  3,610,341
+Daimler-Benz, Germany                    3,624,474  3,269,889  3,188,930
+Ford Motor, USA                          2,928,016  2,519,770  2,404,866
+Hitachi, Japan                           3,146,348  2,971,826  2,076,671
+Siemens, Germany                         3,263,661  3,071,773  2,716,799
+Int. Business Machines, USA              3,435,620  3,380,196  3,321,392
+Matsushita Electric Industrial, Japan    2,531,922  2,325,048  2,093,501
+Fujitsu, Japan                           2,373,334  1,997,474  1,655,153
+American T'phone &amp; Telegraph, USA        1,967,556  2,104,765  1,644,474
+Toshiba, Japan                           1,926,059  1,810,646  1,610,095
+Nippon Telegraph &amp; T'phone, Japan        1,737,445  1,650,078  1,443,416
+Alcatel-Alsthom Co. Generale, France     1,164,302    930,320    818,251
+NEC, Japan                               1,831,395  1,692,605  1,695,736
+Asea Brown Boveri, Switz/Sweden          1,612,706  1,582,967  1,305,170
+Sony, Japan                              1,457,067  1,246,287  1,000,648
+Bayer, Germany                           1,205,044  1,167,678  1,065,701
+Honda Motor, Japan                       1,165,667  1,175,139  1,091,327
+Hewlett-Packard, USA                     1,094,964    988,847    923,960
+Hoechst, Germany                         1,130,312  1,116,690  1,045,850
+Philips Gloeilampenfabrieken, N'lands    1,273,663  1,346,742  1,523,524
+ -----------------------------------------------------------------------

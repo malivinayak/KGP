@@ -1,0 +1,85 @@
+Unlike their counterparts in politics, the armed forces and the legal
+profession, many business leaders would agree with Henry Ford that 'history
+is bunk'. They see little use for it. The loss is theirs - and that of their
+employees and shareholders.
+If Kenneth Olsen, founder and former head of Digital Equipment, had had a
+better grasp of America's 19th century industrial history, his company might
+not have plunged into the deep trouble in which it is now struggling. The
+same is true of IBM, Kodak and a string of other leading companies on both
+sides of the Atlantic that are having to go through fire to replace obsolete
+technologies.
+They are suffering from a phenomenon that has plagued successful large
+enterprises at least since industrialisation began: the tendency to react
+inappropriately to a technology or other kind of radical innovation that
+threatens their core business.
+Some companies fail to notice an innovation until it is too late. Others
+reject it, re-investing desperately but usually ineffectively in their
+existing technology or business. Still others embrace it, but only
+half-heartedly.
+Whatever their reaction, the net result is what James Utterback, a professor
+at the Massachusetts Institute of Technology, calls the disturbing
+regularity with which leading companies 'follow their core technologies into
+obsolescence and obscurity'.
+In different ways, Digital and IBM both mishandled the emergence of personal
+computers, under-rating vastly the impact that PCs would have on their mini
+and mainframe businesses.
+Digital then compounded the problem by its schizophrenia towards new Risc
+(reduced instruction set computing) architecture for computer workstations.
+It was slow to move into it and, torn by its long commitment to its old VAX
+technology, continued to make parallel investments in the latter for far too
+long. As a result it was torn by indecision and turf warfare. By contrast,
+its smaller arch-rival Sun Microsystems broke single-mindedly with its old
+workstation technology and prospered.
+Digital was probably more at fault than most companies. For, as Utterback
+shows in a fascinating and very readable new historical study* of how
+companies can seize the initiative in the face of technological change, one
+of the most instructive past examples occurred in Digital's own
+Massachusetts backyard.
+Over the four decades to 1860, the New England ice-cutting industry built a
+formidable delivery business across large swathes of America. The New
+Englanders invested steadily in so-called 'incremental' innovation,
+improving their processes and productivity sharply.
+But then a threatening 'radical' innovation arrived: mechanical ice-making
+machines from France, which allowed the product to be made near its markets.
+Over the next 30 years machine-made ice took over from the natural variety,
+even though the cutters ploughed more resources than ever into process
+improvements. But they steadfastly refused to embrace the new. None even
+experimented with carrying their ice south in refrigerated ships.
+Utterback's book is full of such examples. They include the self-defeating
+ways in which companies and their famous leaders - even the redoubtable
+Thomas Edison - reacted to successive 19th-century innovations; how
+Remington came to dominate the new typewriter industry only to cede
+leadership to IBM 80 years later when the electric age arrived; and the
+near-lethal resistance of Goodyear and Firestone to Michelin's radial tyre
+technology in the 1970s.
+Only in what Utterback calls non-assembled products, such as tyres, glass,
+and other continuous processes, do incumbents such as Michelin have a good
+track record in either pioneering the new, or switching to it when under
+threat.
+Utterback's analysis offers many other lessons for the hard-pressed modern
+manager. They include:
+Radical innovation is uncomfortable, but vital. If a company does only
+short-term, incremental innovation, it is failing to prepare for the future.
+It is hastening the inevitable decline of its business.
+Most radical innovations are less surprising than they seem. They exist in
+embryo for many years before they become commercially significant, and are
+based on well-known technical information or components - which defending
+companies sometimes possess themselves.
+Yet in many industries radical innovations almost always come from outside
+the industry. So 'benchmarking' and the collection of competitive
+intelligence should not be limited to industries resembling one's own.
+Instead, new company activity in other fields should also be monitored.
+It is hard enough for a company to follow a 'dual strategy' of defending its
+old technology and developing the new. Doing so in the same part of the
+organisation is a recipe for conflict and suppression of the new. Part of
+the solution is to establish a separate and very independent unit.
+The trouble is that most such units have always suffered an unfortunate
+fate, which Utterback does not discuss. The moment they have shown signs of
+success, they have tended to be wrapped back into the main organisation, and
+their innovative drive stifled rather than spread.
+IBM might not be in quite such a mess today if, instead of following this
+predictable pattern, it had given its originally independent PC unit longer
+life, and cloned the same approach for other innovations. But, like Olsen,
+IBM's recent leaders never bothered to learn such lessons from history.
+* Mastering the Dynamics of Innovation. Harvard Business School Press.
+Dollars 24.95

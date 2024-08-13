@@ -1,0 +1,69 @@
+Electronics companies that were once bitter enemies are forming
+unprecedented alliances aimed at cutting research and development costs and
+improving effectiveness. Collaboration has become the name of the game at an
+international level, as companies find themselves squeezed between
+spiralling research costs and revenues forced down by recession and price
+competition.
+For example, Unisys, one of the largest US computer manufacturers, has
+abandoned its own semiconductor operations, saving itself Dollars 100m
+(Pounds 67m) a year. The advanced chips for its new large machines will be
+made by International Business Machines, the world's largest computer
+company and still a fierce competitor. Unisys, marginally profitable after
+several troubled years, spent Pounds 348m on R&amp;D last year, well down on the
+Pounds 505m spent in 1990 but still equivalent to 6.65 per cent of sales.
+Many large companies in the electrical and electronics sector have found it
+necessary to cut R&amp;D spending in line with reduced revenues. Siemens of
+Germany took premier place in the sector last year with spending of almost
+Pounds 3bn, a decline of 8 per cent on the year before. IBM, formerly the
+world's R&amp;D powerhouse, was a whisker behind, but cut its spending by 13 per
+cent.
+Bill O'Riordan of Imperial College, London, who is also head of research and
+advanced technology for ICL, the UK-based computer company owned by Fujitsu
+of Japan, says there are two reasons why collaboration has taken on a new
+importance.
+First, no single company can afford the costs of building and managing
+systems of today's complexity without help. ICL benefited greatly throughout
+the 1980s from an alliance with Fujitsu which gave it privileged access to
+the Japanese company's semiconductor technology.
+It was an appreciation, however, of the funding level necessary to stay at
+the forefront of innovation that led the company to takeover by Fujitsu.
+Today, ICL, at Pounds 208m a year, spends substantially more than any other
+non-listed UK company; ICL's R&amp;D represents 7.96 per cent of its Pounds
+2.6bn sales.
+Second, unless companies collaborate, their ability to respond quickly to
+change deteriorates. The value of the experience built up by their
+scientists and engineers withers in a rapidly changing environment unless
+they are exposed to fresh stimuli. O'Riordan says: 'When you collaborate,
+you innovate; when you don't, you invent.'
+For many companies, collaboration has become an essential feature of
+corporate restructuring. Amdahl, a US company which pioneered
+plug-compatible mainframe computers, functionally identical to IBM's, seemed
+in trouble a year ago. Sales were stagnant as customers turned away from
+mainframes towards apparently more cost-effective networked computer
+systems. R&amp;D spending was, at Pounds 226m, 19.9 per cent of sales, the
+second highest in the global ranking.
+Amdahl's business plan called for the company to move down from sales of
+Dollars 2.5bn to Dollars 1.5bn. R&amp;D spending had to be brought in line. The
+solution was a technology collaboration with Fujitsu, owner of a minority
+stake in the company.
+Amdahl abandoned ECL (emitter-coupled logic) circuitry, which is fast but
+pricey, in favour of Fujitsu's cheaper CMOS (complementary metal oxide
+silicon) alternative. Fujitsu now designs and builds the computer; Amdahl
+builds in the features which enable the machines to compete directly with
+IBM.
+The leading semiconductor companies, Intel and Motorola of the US, have
+pushed up R&amp;D spending by 24 per cent and 16 per cent respectively as they
+battle to maintain their chip designs as industry standards. Even they are
+finding collaboration with other companies essential.
+Motorola, Apple and IBM are working together on a design called 'Power PC'.
+Last week, Intel and Hewlett-Packard announced they were working together on
+a new generation of microprocessor chips which could dictate the direction
+of computer technology into the next century.
+Software companies are, for the moment, an exception to the trend. SAP of
+Germany spends 25 per cent of its Pounds 428m revenues in developing R3, a
+highly successful accounting package. Quality Software Products of the UK
+has spent Pounds 16m over the past few years in developing a competitive
+product. Bigger software companies often buy smaller ones to add an
+attractive software product to their catalogue without incurring R&amp;D costs.
+The pressure to spend on R&amp;D has in no way diminished. In the future most
+companies will be able to survive and advance only by sharing costs.
