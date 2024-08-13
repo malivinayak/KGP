@@ -1,0 +1,102 @@
+Although the academic case against central banks, and for free banking, has
+failed, so far, to gather much practitioner support, should the current
+enthusiasm for central bank independence prove a disappointment, in terms of
+successful re-establishment of price stability, then it is possible, though
+far from certain, that the cause of free banking would obtain renewed
+support.
+The above is a quotation not from some maverick, but from the keynote paper
+by Professor Charles Goodhart and co-authors (The Development of Central
+Banking) at last week's Bank of England tercentenary seminar.
+The argument is about whether banking requires more regulation than any
+other industry. It helps to follow the argument if we make a clear
+distinction between 'currency', namely notes and coins plus bankers'
+reserves with the central banks, and 'money', which is a much wider concept
+including bank deposits and any other instruments used for settling debts.
+(Currency is also pretty close to the monetarists' idea of 'base money'.)
+The issue goes back to a division among the founding fathers of economics
+about the inflationary effects of banking. David Hume, who promulgated the
+Quantity Theory, regarded currency as consisting essentially of gold or
+other precious metals. He explained how a doubling of the amount of gold in
+Britain would lead first to a rise in prices and then to a redistribution of
+the new gold throughout the rest of the world. He regarded man-made
+substitutes, whether bank notes or deposits, as essentially counterfeit
+gold.
+Adam Smith disagreed on the last point. His view, which may be called the
+'classical' one, was that price stability depended on the convertibility of
+notes into precious metals. The classical school argued that banks could not
+issue credit indefinitely as the public had to be persuaded to accept the
+notes and deposits thereby created. Banks would not only have to acquire a
+reputation for caution but offer interest, at least on deposits. So the
+multiplication of man-made money would come to an end where the extra
+interest from advancing credit was balanced by the extra interest that had
+to be paid to depositors as well as other banking costs.
+There are some factual observations which tell in favour of the classical
+school. The chief monument to the Quantity Theory (then called 'currency
+school'), was Robert Peel's Bank Charter Act of 1844. This tried to stop the
+multiplication of bank money by giving the Bank of England a monopoly of the
+note issue, the size of which was tied to its gold stock. The authors of the
+Act did not realise that deposits would become far more important than
+notes; and the Act did not prevent a vast increase in the effective money
+supply erected on a small gold base. There were no long-term inflationary or
+deflationary developments, while the pound remained convertible into gold.
+In our own day central banks have tried to limit the creation of deposit
+money; and critics have often scoffed that their efforts are dwarfed by the
+multiplication of deposits in the Euro markets and general innovation and
+globalisation. Yet none of these hyped-up forces has prevented central banks
+from curbing inflation once they had developed the courage to raise interest
+rates enough to do so, first in the 1980s and then in the 1990s.
+Some of the above arguments are taken from David Glasner's Free Banking and
+Monetary Reform (Cambridge University Press, 1989), to which I alluded in
+Economic Viewpoint last week. This book comes to grips with problems that
+many other free banking writers have ignored; and it is free of the
+fanaticism which frequently surrounds monetary subjects.
+Glasner maintains that Hayek was wrong to suppose that private enterprise
+money would be introduced in rival inflation-proof units. This overlooked
+the cost of switching from one unit of account to another, and especially
+into unfamiliar units. Thus, even at high rates of inflation, private
+enterprise suppliers of money are more likely to compete by paying interest
+rates containing an inflation premium. Glasner's argument is that we already
+have competitive money but that the state still has a function in defining
+an inflation-proof monetary unit.
+What then would a moderate free banker, like Glasner, now advocate? He does
+not seem to regard the central bank monopoly of the note issue, or even the
+legal tender laws, as important enough to crusade against. Nor does he
+insist on the immediate abolition of all central banks.
+His big criticism is of compulsory state-guaranteed deposit insurance. The
+fate of the US Savings and Loans institutions, which had to be rescued at
+the cost of the American taxpayer, gives him all the ammunition he needs.
+Such guarantees create a problem of moral hazard, as banking institutions
+feel safer about engaging in reckless lending.
+The argument does not stop here. There is implicit, if imperfect,
+understanding that central banks will not allow commercial banks that are
+household names to fail. The lender of last resort function consists today
+of deliberately ill-defined guarantees in return for acceptance of detailed
+supervision. It is this that gives central bankers the air of very important
+people who need to be engaged, not just with monetary policy, but with the
+highest figures in private finance. Without going so far as to abolish these
+responsibilities overnight, New Zealand's proposals for a switch of emphasis
+from supervision to disclosure are surely the direction in which to go.
+An implication is that ordinary citizens and small businesses not wishing to
+take a view on financial markets would be well advised to place their ready
+cash in low-interest deposits backed by virtually risk-free assets, such as
+short-term government paper.
+Glasner departs from some other free bankers in accepting a role for the
+state not only in declaring a monetary unit but in supplying a currency
+denominated in that unit, which would preserve its real value. He joins the
+new and old fogies who hold that monetary stability can, in the end, only be
+guaranteed by convertibility into a real asset. The one asset he discusses
+in detail is gold.
+But unlike the pure gold bugs, he recognises that gold itself can fluctuate
+in real value, especially as so much of the world's gold stock is in the
+hands of central banks. He suggests base money should be convertible into
+gold at a variable rate designed to stabilise the general price level. And
+he therefore advocates a variable official gold price. If, for instance, the
+price of gold fails to keep up with a general inflation index, the holder of
+currency would receive a larger amount of gold on conversion. But if the
+price of gold rose by more than the general price index - that is a threat
+of deflation - then a smaller quantity of gold would be paid out for each
+currency unity exchanged.
+A first inspection suggests that central bank gold stocks might be enough to
+give the plan a chance. IMF estimates indicate that they are worth over
+Dollars 400bn. But, clearly, plans for an adjustable gold standard will need
+to be fully investigated before even being proposed, let alone adopted.

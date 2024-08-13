@@ -1,0 +1,14 @@
+Sir, We were pleased to see your interest in seasonal adjustment of
+statistical series - a highly technical subject, but at the same time one of
+great importance in the analysis of economic and other data ('Easter's
+moveable feast dishes statisticians', June 7). The topic is one to which we
+devote a lot of attention both in considering the merits of alternative
+systems and in deciding how best to use options available in the X-11 system
+we have adopted. In our continuing search for improvements, we have engaged
+the help of Dr Estelle Dagum, an expert of international repute, to advise
+on seasonal adjustment procedures.
+David Wroe,
+deputy director,
+Central Statistical Office,
+Great George Street,
+London SW1P 3AQ
